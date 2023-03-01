@@ -7,4 +7,4 @@ Breadboard circuit:
 
 Project in action:
 
-![](project-video.mp4)
+![](project-video.gif)
